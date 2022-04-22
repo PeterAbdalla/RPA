@@ -15,7 +15,7 @@ git clone https://github.com/PeterAbdalla/RPA.git
 Install the dependencies:
 
 ```bash
-yarn install
+npm install
 ```
 
 Set the environment variables:
@@ -26,7 +26,7 @@ cp .env.example .env
 Open the Terminal and run these commands.
 
 ```sh
-yarn run dev
+npm run dev
 ```
 
 Access the API Swagger documentation:
