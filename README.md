@@ -3,6 +3,8 @@
 ## Installation
 
 Requires [Node.js](https://nodejs.org/) to run.
+Requires [Python](https://www.python.org/) to run.
+Requires [PostgreSQL](https://www.postgresql.org/) for DB queries.
 
 Follow the installation steps:
 
@@ -15,7 +17,9 @@ git clone https://github.com/PeterAbdalla/RPA.git
 Install the dependencies:
 
 ```bash
-npm install
+npm i -g --production windows-build-tools (for windows OS)
+npm i -g puppeteer
+npm i
 ```
 
 Set the environment variables:
