@@ -2,8 +2,8 @@
 
 ## Installation
 
-Requires [Node.js](https://nodejs.org/) to run.
-Requires [Python](https://www.python.org/) to run.
+Requires [Node.js](https://nodejs.org/) and [Python](https://www.python.org/) to run.
+
 Requires [PostgreSQL](https://www.postgresql.org/) for DB queries.
 
 Follow the installation steps:
