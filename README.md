@@ -14,7 +14,7 @@ Clone the repo:
 git clone https://github.com/PeterAbdalla/RPA.git
 ```
 
-Install the dependencies:
+Open a Terminal in the folder location and install the dependencies:
 
 ```bash
 npm i -g --production windows-build-tools (for windows OS)
@@ -27,9 +27,10 @@ Set the environment variables:
 ```bash
 cp .env.example .env
 ```
-Open the Terminal and run these commands.
 
-```sh
+Use the Terminal and run the following command:
+
+```bash
 npm run dev
 ```
 
